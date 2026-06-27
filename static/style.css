@@ -1,0 +1,24 @@
+body{
+    background-image: url('iris.jpg');
+    background-size: cover;
+
+}
+
+.form{
+    background-color: rgba(177, 129, 237, 0.5);
+    display:inline;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 3px solid #2b0d57;
+    color: #f9f9fb;
+}
+
+.form-container{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 10vh;
+    margin-top: 200px;
+}
